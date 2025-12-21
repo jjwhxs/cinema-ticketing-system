@@ -14,37 +14,53 @@
 
 ### 成果展示
 
-前台系统->注册/登录 输入图片说明
+前台系统->注册/登录
+<img width="1899" height="1036" alt="前台系统-注册登录" src="https://github.com/user-attachments/assets/72a8b7b4-7a3a-41c8-bdef-e844aa23178f" />
 
-前台系统->首页 输入图片说明
+前台系统->首页
+<img width="1879" height="1031" alt="前台系统-首页" src="https://github.com/user-attachments/assets/0a2a8c87-cecf-4bb3-8854-5dacdb1af66f" />
 
-前台系统->电影 输入图片说明
+前台系统->电影
+<img width="1881" height="1031" alt="前台系统-电影" src="https://github.com/user-attachments/assets/6abafcca-beae-43a8-aa2c-5ef4bcdad717" />
 
-前台系统->活动 输入图片说明
+前台系统->活动
+<img width="1899" height="1031" alt="前台系统-活动" src="https://github.com/user-attachments/assets/03c3027a-8476-459f-b857-6f9f4ac8d533" />
 
-前台系统->留言 输入图片说明
+前台系统->留言
+<img width="1877" height="767" alt="前台系统-留言" src="https://github.com/user-attachments/assets/f4791c70-2016-47d2-bbc3-fe73c95439bc" />
 
-前台系统->购物车 输入图片说明
+前台系统->购物车
+<img width="1882" height="1031" alt="前台系统-购物车" src="https://github.com/user-attachments/assets/93297e3c-b390-4d16-97cf-9842daeb59cb" />
 
-前台系统->我的订单 输入图片说明
+前台系统->我的订单
+<img width="1884" height="1035" alt="前台系统-我的订单" src="https://github.com/user-attachments/assets/a369f2d1-cd0c-4e4d-93c8-70cb811aadb3" />
 
-客服系统->影院留言 输入图片说明
+客服系统->影院留言
+<img width="1896" height="1034" alt="客服系统-影院留言" src="https://github.com/user-attachments/assets/53d54c23-02c8-41c8-9808-2a07fc39c850" />
 
-客服系统->电话回访 输入图片说明
+客服系统->电话回访
+<img width="1899" height="1024" alt="客服系统-电话回访" src="https://github.com/user-attachments/assets/00f3e8e0-138e-4eee-b113-3507b0741fbd" />
 
-客服系统->活动安排 输入图片说明
+客服系统->活动安排
+<img width="1901" height="1032" alt="客服系统-活动安排" src="https://github.com/user-attachments/assets/708a8c99-7035-4718-bd9d-bf2ef1d874ae" />
 
-客服系统->信息统计 输入图片说明
+客服系统->信息统计
+<img width="1897" height="1031" alt="客服系统-信息统计" src="https://github.com/user-attachments/assets/ed415c05-392b-4e75-bec4-5a3c94d245f5" />
 
-客服系统->我的评价 输入图片说明
+客服系统->我的评价
+<img width="1897" height="1032" alt="客服系统-我的评价" src="https://github.com/user-attachments/assets/f0b224d9-9e4a-4dd3-abdc-ed4218bf362c" />
 
-后台系统->影视管理 输入图片说明
+后台系统->影视管理
+<img width="1875" height="1035" alt="后台系统-影视管理" src="https://github.com/user-attachments/assets/6088869e-4eb0-49f1-98b6-79b7c990a930" />
 
-后台系统->用户管理 输入图片说明
+后台系统->用户管理
+<img width="1897" height="1030" alt="后台系统-用户管理" src="https://github.com/user-attachments/assets/b0ee319a-a5c6-48fd-b7a0-da057dccb24b" />
 
-后台系统->订单管理 输入图片说明
+后台系统->订单管理
+<img width="1896" height="1029" alt="后台系统-订单管理" src="https://github.com/user-attachments/assets/6bc319a4-3d93-4a0a-9d84-4feae3871aeb" />
 
-后台系统->员工管理 输入图片说明
+后台系统->员工管理
+<img width="1879" height="1031" alt="后台系统-员工管理" src="https://github.com/user-attachments/assets/99e81409-50c9-4a6c-85ee-8d231404aafb" />
 
 ### 源码展示
 
@@ -155,11 +171,11 @@ public void deleteById(@PathVariable String id) {
 
 3、目录结构展示
 
-输入图片说明
+<img width="984" height="171" alt="目录结构展示" src="https://github.com/user-attachments/assets/0126f4ec-d57b-4ec8-9a61-3d53e190d40f" />
 
 4、项目结构展示
 
-输入图片说明
+<img width="1761" height="805" alt="项目结构展示" src="https://github.com/user-attachments/assets/c4ae5b61-de6b-42bd-8572-f257aed51abd" />
 
 5、运行步骤
 
@@ -175,6 +191,6 @@ public void deleteById(@PathVariable String id) {
 
 访问链接(在浏览器中手动输入下图中的地址)：
 
-输入图片说明
+<img width="1115" height="121" alt="链接" src="https://github.com/user-attachments/assets/0995ab6c-6d42-4d40-a4ba-07962fcb5c87" />
 
 若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
