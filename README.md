@@ -193,4 +193,4 @@ public void deleteById(@PathVariable String id) {
 
 <img width="1115" height="121" alt="链接" src="https://github.com/user-attachments/assets/0995ab6c-6d42-4d40-a4ba-07962fcb5c87" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
