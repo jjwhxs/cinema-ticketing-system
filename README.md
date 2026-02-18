@@ -189,8 +189,6 @@ public void deleteById(@PathVariable String id) {
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1115" height="121" alt="链接" src="https://github.com/user-attachments/assets/0995ab6c-6d42-4d40-a4ba-07962fcb5c87" />
+访问链接：https://mbd.pub/o/bread/mbd-YZWVmp1tZA==
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
